@@ -1,0 +1,23 @@
+{
+  "name": "EchBase-HTML",
+  "version": "0.1.0",
+  "description": "A starting point html template with SASS Bootstrap set up, Grunt modules and a standard filepath.",
+  "author": "ech design",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/EchDev/EchBase.git"
+  },
+  "homepage": "https://github.com/EchDev/EchBase#readme",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-postcss": "latest",
+    "autoprefixer": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-nodeunit": "latest"
+  }
+}
